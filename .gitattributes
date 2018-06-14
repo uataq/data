@@ -1,0 +1,4 @@
+mitchell_2018a/SLV_CO2_archive_2018-02-01.zip filter=lfs diff=lfs merge=lfs -text
+mitchell_2018a/SLV_CO2_archive_fluxes.nc filter=lfs diff=lfs merge=lfs -text
+mitchell_2018a/SLV_CO2_archive_footprints.nc filter=lfs diff=lfs merge=lfs -text
+mitchell_2018a/SLV_CO2_archive_qaqc_measurements.nc filter=lfs diff=lfs merge=lfs -text
